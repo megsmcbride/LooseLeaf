@@ -11,6 +11,12 @@ The following steps are only for _one_ of the group members to perform.
 4. Add your team members as collaborators to the project so that they can push to this repo
 5. Let your team members know the repo URL so that they use the same repo (they should _not_ create a copy/fork of this repo since that will add additional workflow complexity to the project)
 
+##UX/UI
+
+
+https://user-images.githubusercontent.com/103383384/191768976-930a07c3-82b4-4ab3-8dc1-0c595efed327.mov
+
+
 
 ## Getting Started
 
